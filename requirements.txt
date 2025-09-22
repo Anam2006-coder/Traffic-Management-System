@@ -1,0 +1,6 @@
+streamlit
+stable-baselines3
+gymnasium
+numpy
+pandas
+torch
